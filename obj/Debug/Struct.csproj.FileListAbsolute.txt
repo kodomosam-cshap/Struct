@@ -1,0 +1,10 @@
+C:\Users\kodom\source\repos\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\kodom\source\repos\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\kodom\source\repos\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.Form1.resources
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.Properties.Resources.resources
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.csproj.GenerateResource.cache
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\kodom\source\repos\Struct\Struct\obj\Debug\Struct.pdb
